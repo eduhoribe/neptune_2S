@@ -1,0 +1,3 @@
+[submodule "probe/Klack-Probe-Macros"]
+	path = probe/Klack-Probe-Macros
+	url = https://github.com/eduhoribe/Klack-Probe-Macros.git
