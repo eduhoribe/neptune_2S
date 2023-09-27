@@ -1,4 +1,4 @@
 [submodule "probe/Klack-Probe-Macros"]
 	path = probe/Klack-Probe-Macros
-	url = git@github.com:eduhoribe/Klack-Probe-Macros.git
+	url = https://github.com/eduhoribe/Klack-Probe-Macros.git
 	branch = elegoo_neptune_2S
